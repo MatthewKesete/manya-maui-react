@@ -1,0 +1,51 @@
+/* assets/fonts/fonts.css */
+
+/* Regular (400) */
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./plus-jakarta-sans-v12-latin-regular.woff2') format('woff2');
+}
+
+/* Medium (500) */
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('./plus-jakarta-sans-v12-latin-500.woff2') format('woff2');
+}
+
+/* SemiBold (600) */
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('./plus-jakarta-sans-v12-latin-600.woff2') format('woff2');
+}
+
+/* Bold (700) */
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('./plus-jakarta-sans-v12-latin-700.woff2') format('woff2');
+}
+
+/* ExtraBold (800) */
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url('./plus-jakarta-sans-v12-latin-800.woff2') format('woff2');
+}
+
+/* Set the default font for the whole app */
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
